@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://www.invoiceplane.org/download/v1.5.11
+SOURCE_SUM=4de189ee5a0c8b57c075d9b6d48cf2ebbd8802c504fd57dc91634da26f07ef8c
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=v1.5.11.zip
 SOURCE_EXTRACT=true
