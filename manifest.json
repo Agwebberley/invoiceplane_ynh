@@ -50,7 +50,7 @@
                 "name": "is_public",
                 "type": "boolean",
                 "default": true
-            },
+            }
         ]
     }
 }
